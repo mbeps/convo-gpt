@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "off",
+  "testing.automaticallyOpenPeekView": "never",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
